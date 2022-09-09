@@ -11,36 +11,19 @@ int main(void)
 
 {
 
-	char c = 'a';
+char c = 'a';
 
 char d = 'A';
-
-
-
-	while (c <= 'z')
-
-			{
-
-					putchar(c);
-
-						c++;
-
-			}
-
-	while (d <= 'Z')
-
-	{
-
-			putchar(d);
-
-				d++;
-
-	}
-
-		putchar('\n');
-
-			return (0);
-
-
-
+while (c <= 'z')
+{
+putchar(c);
+c++;
+}
+while (d <= 'Z')
+{
+putchar(d);
+d++;
+}
+putchar('\n');
+return (0);
 }
