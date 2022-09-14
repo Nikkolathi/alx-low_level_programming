@@ -1,11 +1,6 @@
-/*
- 
+/* 
  * File: 0-putchar.c
- 
- *
  */
-
-
 
 #include "main.h"
 
