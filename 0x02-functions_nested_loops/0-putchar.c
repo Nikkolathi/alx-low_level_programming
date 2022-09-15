@@ -5,8 +5,8 @@
 #include "main.h"
 
 /**
- * main -Prints "_putchar" followed by a new line.
- * Return: Always 0.
+ * Main  - Prints "_putchar" followed by a new line.
+ * Return: 0 on success.
  */
 
 int main(void)
