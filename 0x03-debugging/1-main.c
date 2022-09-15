@@ -13,7 +13,7 @@ int main(void)
 {
 int i;
 
- printf("Infinite loop incoming :(\n");
+printf("Infinite loop incoming :(\n");
 
 i = 0;
 /*
@@ -22,7 +22,7 @@ i = 0;
 * putchar(i);
 *}
 */
- printf("Infinite loop avoided! \\o/\n");
+printf("Infinite loop avoided! \\o/\n");
 
 return (0);
 }
