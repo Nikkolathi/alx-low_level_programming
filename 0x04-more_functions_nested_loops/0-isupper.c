@@ -8,17 +8,10 @@
 int _isupper(int d)
 
 {
+	int isUpper = 0;
 
-		int isUpper = 0;
+	if (d >= 'A' && d <= 'Z')
+		isUpper = 1;
 
-
-
-			if (d >= 'A' && d <= 'Z')
-
-						isUpper = 1;
-
-
-
-				return (isUpper);
-
+	return (isUpper);
 }
