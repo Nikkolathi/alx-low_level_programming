@@ -1,4 +1,4 @@
-/*
+/**
  * File: 1-print_binary.c
  * Auth: Nicholus Maingi
  */
